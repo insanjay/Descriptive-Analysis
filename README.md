@@ -60,12 +60,11 @@ The objective is to analyze both categorical and numerical features to uncover i
 
 ## 🛠️ Tools Used
 
-- **Python (Pandas, NumPy)** – Data analysis & transformation  
+- **Python (Pandas)** – Data analysis & transformation  
 - **Jupyter Notebook** – Step-by-step development  
 - **Power BI** – Data visualization & dashboarding  
 - **Excel** – Initial data prep  
-- **Word** – Report writing  
-- **ChatGPT** – Guidance and explanation support
+- **Word** – Report writing 
 
 ---
 
